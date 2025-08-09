@@ -17,6 +17,9 @@ Check personal reservation details
 
 This system follows Object-Oriented Programming (OOP) principles and uses a menu-driven interface for smooth navigation. All interactions happen directly in the command line, making it lightweight and fast.
 
+
+<img width="721" height="3404" alt="output" src="https://github.com/user-attachments/assets/2e167a44-2c3d-4e9e-b8fe-f5233abcdbd0" />
+
 ✨ Features
 Admin Functions
 🔑 Login authentication
