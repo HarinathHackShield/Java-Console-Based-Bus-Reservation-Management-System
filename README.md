@@ -16,10 +16,6 @@ Make, cancel, or edit reservations
 Check personal reservation details
 
 This system follows Object-Oriented Programming (OOP) principles and uses a menu-driven interface for smooth navigation. All interactions happen directly in the command line, making it lightweight and fast.
-
-
-<img width="721" height="3404" alt="output" src="https://github.com/user-attachments/assets/2e167a44-2c3d-4e9e-b8fe-f5233abcdbd0" />
-
 ✨ Features
 Admin Functions
 🔑 Login authentication
@@ -34,6 +30,11 @@ Admin Functions
 
 📄 View all reservations
 
+<img width="697" height="1273" alt="output1" src="https://github.com/user-attachments/assets/0f92529c-4246-4e61-8798-c38bd9b15060" />
+
+<img width="697" height="1404" alt="output2" src="https://github.com/user-attachments/assets/08ce1bad-6e1d-4c90-bb7b-c97aaef39ee1" />
+
+<img width="721" height="709" alt="output3" src="https://github.com/user-attachments/assets/a6062c2c-26d6-4205-87c3-c2f359e7c1cd" />
 
 User Functions
 🚍 View available buses
