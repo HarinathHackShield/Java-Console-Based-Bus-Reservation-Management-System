@@ -15,7 +15,6 @@ Make, cancel, or edit reservations
 
 Check personal reservation details
 
-This system follows Object-Oriented Programming (OOP) principles and uses a menu-driven interface for smooth navigation. All interactions happen directly in the command line, making it lightweight and fast.
 ✨ Features
 Admin Functions
 🔑 Login authentication
@@ -46,3 +45,5 @@ User Functions
 ✏️ Edit reservation
 
 🔍 View reservation details
+
+This system follows Object-Oriented Programming (OOP) principles and uses a menu-driven interface for smooth navigation. All interactions happen directly in the command line, making it lightweight and fast.
